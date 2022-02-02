@@ -1,0 +1,2 @@
+# mindamappare
+mindmap juttu
