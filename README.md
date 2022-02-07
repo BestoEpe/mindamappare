@@ -1,4 +1,7 @@
 # mindamappare
+
+https://replit.com/@BestoEpe/mindamappare#script.js
+
 mindmap juttu
 
 
