@@ -36,7 +36,7 @@ html
  <script src="script.js"> </script>
 
 <p><a
- href="https://youtu.be/dQw4w9WgXcQ">
+ href="https://github.com/BestoEpe/mindamappare/edit/main/README.md">
 <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="red.png" alt="Smiley" width="10" height="10">
 </a></p>
 
